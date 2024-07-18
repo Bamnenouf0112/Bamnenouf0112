@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nouf Bamne</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Computer Engineering Student from India</h3>
 <img align = "right" alt= "Future Space" width ="400" src="https://img.freepik.com/premium-photo/aesthetic-view-private-jet-engine-intake-with-sleek-modern-design-concept-aircraft-engineering-aesthetic-design-modern-technology-aviation-innovation_918839-136878.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bamnenouf0112&label=Profile%20views&color=0e75b6&style=flat" alt="bamnenouf0112" /> </p>
 
-- 🌱 I’m currently learning **Computer Engineering.**
+- 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **noufbamne@gmail.com**
 
